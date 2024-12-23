@@ -322,7 +322,7 @@ config:
   verify_parameters: false
   verify_signature: true
 enabled: true
-id: 7394be00-8987-4dd1-a5a4-057d632baf48
+id: changeme
 name: openid-connect
 protocols:
   - grpc
@@ -330,4 +330,4 @@ protocols:
   - http
   - https
 route:
-  id: c828828f-836f-4256-ae42-a6af38be8af4
+  id: changeme
